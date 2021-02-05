@@ -1,1 +1,2 @@
-# Influence-maximization
+# Linear Threshold model using NDLib
+
